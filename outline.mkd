@@ -228,6 +228,8 @@ Write a response in which you examine the stated and/or unstated assumptions of 
 * Assumption2: the higher revenue represents the higher profit and the average revenue means the whole situation of the company. To be specific, the unstated assumption is that the two can be compared in thieir business such as the same market positioning.
 * Assumption3: all the situation is the same after 10 years has passed. Still the unstated assumption is the slow selling process of Fitch Realty is their own fault for example it maybe due to the depression of economy.
 
+Note: Profit is not equal to revenues,profit is the amount of income that remains after all expenses, costs and taxes are accounted for. Whereas sales revenue only considers the amount of income a business generates through the sale of its goods or services
+
 # 第5类
 ## 5
 The following appeared in a letter to the editor of the Balmer Island Gazette.
